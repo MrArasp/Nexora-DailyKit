@@ -144,6 +144,7 @@ NEXORA DAILYKIT یک برنامه دسکتاپ محلی برای ویندوز ا
 Task دارای زمان می‌تواند توسط Reminder Engine یادآوری شود.
 
 <img width="1048" height="536" alt="4" src="https://github.com/user-attachments/assets/12d1c232-a960-4a99-bce9-2ecfca447509" />
+
 ## 8. Journal
 
 Journal برای یادداشت روزانه است، نه کار قابل انجام. ذخیره خودکار و دستی دارد.
