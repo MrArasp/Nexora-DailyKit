@@ -117,7 +117,7 @@ NEXORA DAILYKIT یک برنامه دسکتاپ محلی برای ویندوز ا
 
 در رابط فارسی، اعداد تاریخ به‌صورت Western/English باقی می‌مانند.
 
-<img width="413" height="557" alt="1" src="https://github.com/user-attachments/assets/474aa3b3-0ac4-4523-9fe8-9525052ccd8b" />
+<img width="579" height="500" alt="Screenshot 2026-10-04 102607" src="https://github.com/user-attachments/assets/b54497d5-61fc-4582-8e83-423267915924" />
 
 ## 6. اطلاعات روزانه
 
@@ -129,7 +129,8 @@ NEXORA DAILYKIT یک برنامه دسکتاپ محلی برای ویندوز ا
 ### Journal
 یادداشت‌های آزاد مربوط به آن تاریخ.
 
-<img width="413" height="552" alt="2" src="https://github.com/user-attachments/assets/69648794-f9d3-4ead-bd54-594d2878b962" />  <img width="410" height="569" alt="3" src="https://github.com/user-attachments/assets/91e74d4c-67de-4059-aefa-e4d64c9719a3" />
+<img width="410" height="552" alt="Screenshot 2026-10-04 101850" src="https://github.com/user-attachments/assets/692c451e-c953-4f0a-bad7-d532b3a86702" />
+
 
 ## 7. وظایف
 
@@ -141,15 +142,14 @@ NEXORA DAILYKIT یک برنامه دسکتاپ محلی برای ویندوز ا
 
 Task دارای زمان می‌تواند توسط Reminder Engine یادآوری شود.
 
-> **جای تصویر:** Task Editor.
-
+<img width="1048" height="536" alt="4" src="https://github.com/user-attachments/assets/12d1c232-a960-4a99-bce9-2ecfca447509" />
 ## 8. Journal
 
 Journal برای یادداشت روزانه است، نه کار قابل انجام. ذخیره خودکار و دستی دارد.
 
 برای یادداشت روزانه، ایده، ثبت شخصی، یادداشت جلسه و موارد مشابه استفاده کنید.
 
-> **جای تصویر:** Journal.
+<img width="587" height="336" alt="Screenshot 2026-10-04 103809" src="https://github.com/user-attachments/assets/c81fe322-00db-4183-92fe-d57c7594c68b" />
 
 ## 9. یادآورها
 
