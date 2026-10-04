@@ -117,7 +117,7 @@ NEXORA DAILYKIT یک برنامه دسکتاپ محلی برای ویندوز ا
 
 در رابط فارسی، اعداد تاریخ به‌صورت Western/English باقی می‌مانند.
 
-> **جای تصویر:** Calendar Settings.
+<img width="413" height="557" alt="1" src="https://github.com/user-attachments/assets/474aa3b3-0ac4-4523-9fe8-9525052ccd8b" />
 
 ## 6. اطلاعات روزانه
 
@@ -129,7 +129,7 @@ NEXORA DAILYKIT یک برنامه دسکتاپ محلی برای ویندوز ا
 ### Journal
 یادداشت‌های آزاد مربوط به آن تاریخ.
 
-> **جای تصویر:** Daily Information.
+<img width="413" height="552" alt="2" src="https://github.com/user-attachments/assets/69648794-f9d3-4ead-bd54-594d2878b962" />  <img width="410" height="569" alt="3" src="https://github.com/user-attachments/assets/91e74d4c-67de-4059-aefa-e4d64c9719a3" />
 
 ## 7. وظایف
 
