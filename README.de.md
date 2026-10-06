@@ -184,7 +184,6 @@ Widget weg: System Tray prüfen. Position falsch: Settings → Widget → Reset 
 
 Jalali verwendet die unterstützte astronomische Solar-Hijri-Berechnung. Islamic verwendet Umm-al-Qura-Daten und keine lokale Mondbeobachtung. Daher sind Abweichungen von etwa einem Tag möglich.
 
-> Screenshot hier einfügen.
 
 ## 23. Version
 
