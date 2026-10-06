@@ -50,7 +50,6 @@ Download the official Windows release from the **Releases** section of the publi
 
 The public repository is for releases and user documentation. Source code is maintained separately.
 
-> **Screenshot placeholder:** Add the GitHub Releases screenshot here.
 
 ## Installation
 
@@ -61,7 +60,6 @@ The public repository is for releases and user documentation. Source code is mai
 5. First launch uses **English** and the **Gregorian** calendar.
 6. Open **Settings** to customize the application.
 
-> **Screenshot placeholder:** Add the installation/first-launch screenshot here.
 
 ---
 
@@ -71,6 +69,8 @@ The public repository is for releases and user documentation. Source code is mai
 
 Default startup uses English, Gregorian calendar, the widget near the lower-left area above the Windows taskbar, default widget opacity, and local storage.
 
+<img width="358" height="531" alt="image" src="https://github.com/user-attachments/assets/73e9ac0c-961c-43a4-8993-eceef0728962" />
+
 ## 2. Main Interface
 
 ### Calendar
@@ -79,12 +79,8 @@ Displays the selected calendar and allows navigation between dates and months.
 ### Settings
 Contains Appearance, Calendar, Widget, Reminders, Backup, Language, and About settings.
 
-### About Us
-Contains NEXORA information, project links, donation information, and wallet-copy functionality.
-
 The application name is always **NEXORA DAILYKIT**.
 
-> **Screenshot placeholder:** Add the main interface screenshot here.
 
 ## 3. Calendar
 
@@ -92,7 +88,7 @@ You can move between months, select a date, return to Today, change the primary 
 
 The selected date receives the main highlight. Today remains visible and becomes a lighter highlight when another date is selected.
 
-> **Screenshot placeholder:** Add a calendar screenshot here.
+<img width="350" height="422" alt="image" src="https://github.com/user-attachments/assets/55eb3451-893d-4cfc-8bf8-0120f4508026" />
 
 ## 4. Calendar Systems
 
@@ -117,7 +113,7 @@ First day can be automatic, Saturday, Sunday, or Monday.
 
 In the Persian interface, date numbers remain Western/English numerals.
 
-> **Screenshot placeholder:** Add Calendar Settings here.
+<img width="579" height="500" alt="image" src="https://github.com/user-attachments/assets/d82d7d7f-c34c-434c-929d-6c845c01cf03" />
 
 ## 6. Daily Information
 
@@ -129,7 +125,7 @@ Actionable items for the selected date.
 ### Journal
 Free-form notes associated with the selected date.
 
-> **Screenshot placeholder:** Add Daily Information here.
+<img width="410" height="552" alt="image" src="https://github.com/user-attachments/assets/3a5810b4-b162-431c-a6c4-d0955ab857f5" />
 
 ## 7. Tasks
 
@@ -141,7 +137,7 @@ To create one: select a date → open Daily Information → choose **New Task** 
 
 A task with a time can be handled by the reminder engine.
 
-> **Screenshot placeholder:** Add the task editor screenshot here.
+<img width="1048" height="536" alt="image" src="https://github.com/user-attachments/assets/6524e2ae-b90f-4cfc-bc4f-0b06dd2e94f4" />
 
 ## 8. Journal
 
@@ -149,7 +145,7 @@ Journal is for date-based notes rather than actionable tasks. It supports automa
 
 Use it for daily notes, ideas, personal records, meeting notes, or short reflections.
 
-> **Screenshot placeholder:** Add the Journal screenshot here.
+<img width="362" height="532" alt="image" src="https://github.com/user-attachments/assets/5f3634ee-b3f2-48b9-89d0-738a5962ba66" />
 
 ## 9. Reminders
 
@@ -159,7 +155,7 @@ Scheduled reminders are reloaded when the application starts.
 
 Windows notification settings and permissions also affect notifications.
 
-> **Screenshot placeholder:** Add a reminder notification screenshot here.
+<img width="333" height="112" alt="image" src="https://github.com/user-attachments/assets/e0b825c4-8583-466a-b69a-742c02d012f8" />
 
 ## 10. Reminder Settings
 
@@ -169,7 +165,7 @@ You can configure reminder sound, default/custom sound, Test, Stop Sound, volume
 
 Use **Test** to preview a sound and **Stop Sound** to stop the test.
 
-> **Screenshot placeholder:** Add Reminder Settings here.
+<img width="500" height="386" alt="image" src="https://github.com/user-attachments/assets/8241f326-8dc4-4922-8090-92aa53ba9d6e" />
 
 ## 11. Desktop Widget
 
@@ -179,7 +175,7 @@ It can be moved, resized, shown/hidden, configured to start with Windows, config
 
 The desktop layer sits **behind normal windows**. It is not Always-on-top and does not steal focus. Multi-monitor position recovery is supported.
 
-> **Screenshot placeholder:** Add a desktop widget screenshot here.
+<img width="338" height="468" alt="image" src="https://github.com/user-attachments/assets/57cf1f70-3e17-447c-a6fe-50f8f5bffb1e" />
 
 ## 12. Widget Opacity
 
@@ -187,7 +183,7 @@ Opacity can be set from **20% to 100%** and applies to the widget.
 
 During calendar interaction the widget temporarily becomes 100% visible for readability, then returns to the configured opacity. The saved opacity value is not changed.
 
-> **Screenshot placeholder:** Add opacity settings here.
+<img width="465" height="396" alt="image" src="https://github.com/user-attachments/assets/bb95d4e5-0c84-4a29-b001-73b71b0beb16" />
 
 ## 13. System Tray
 
@@ -195,7 +191,6 @@ Closing the widget normally does not terminate the application. The application 
 
 The Tray menu can show the widget, hide it, or **Exit**. Only Exit terminates the application.
 
-> **Screenshot placeholder:** Add a System Tray screenshot here.
 
 ## 14. Settings
 
@@ -211,7 +206,7 @@ Sections:
 - Language
 - About
 
-> **Screenshot placeholder:** Add the Settings overview here.
+<img width="475" height="186" alt="image" src="https://github.com/user-attachments/assets/fc64dc34-7705-4d7a-8bb9-52e88f1ef861" />
 
 ## 15. Appearance
 
@@ -221,7 +216,7 @@ Options include Theme, Accent color, Calendar color, Task color, Journal color, 
 
 Light, dark, and system themes are supported. Use Preview to inspect changes and Reset to restore appearance defaults.
 
-> **Screenshot placeholder:** Add Appearance Settings here.
+<img width="642" height="845" alt="image" src="https://github.com/user-attachments/assets/cd649b21-754c-4370-bd47-a3f590bf4842" />
 
 ## 16. Language
 
@@ -236,7 +231,7 @@ English is the first-install default. Persian uses RTL where appropriate, while 
 
 The eight README languages do not mean that the application UI supports eight languages.
 
-> **Screenshot placeholder:** Add Language Settings here.
+<img width="387" height="287" alt="image" src="https://github.com/user-attachments/assets/83e789e4-61c5-4361-9ab2-8ba7fdd887f7" />
 
 ## 17. Backup & Restore
 
@@ -252,7 +247,7 @@ Default location:
 
 **Open Folder** opens the currently configured backup location. **Backup Now** creates an immediate backup.
 
-> **Screenshot placeholder:** Add Backup Settings here.
+<img width="579" height="454" alt="image" src="https://github.com/user-attachments/assets/122c29e4-417a-499d-a36b-d75cdeda08ec" />
 
 ## 18. Restore
 
@@ -285,7 +280,6 @@ Official links:
 
 The wallet address is provided for copying.
 
-> **Screenshot placeholder:** Add About Us here.
 
 ## 20. Data Storage & Privacy
 
