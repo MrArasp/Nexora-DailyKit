@@ -147,7 +147,7 @@ Journal برای یادداشت روزانه است، نه کار قابل ان�
 
 برای یادداشت روزانه، ایده، ثبت شخصی، یادداشت جلسه و موارد مشابه استفاده کنید.
 
-<img width="587" height="336" alt="Screenshot 2026-10-04 103809" src="https://github.com/user-attachments/assets/c81fe322-00db-4183-92fe-d57c7594c68b" />
+<img width="362" height="532" alt="image" src="https://github.com/user-attachments/assets/ef966aaa-731d-48ab-bc82-f0d579ebf91d" />
 
 ## 9. یادآورها
 
