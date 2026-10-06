@@ -1,5 +1,3 @@
-<img width="500" height="386" alt="image" src="https://github.com/user-attachments/assets/4b4d056f-b1fb-4cf6-861f-2dd99bf6c960" /># NEXORA DAILYKIT
-
 > Лёгкое настольное приложение-календарь и планировщик дня для Windows 10 и Windows 11.
 
 **Версия:** 1.0.0 — стабильный выпуск
