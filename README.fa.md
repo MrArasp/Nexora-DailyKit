@@ -161,7 +161,8 @@ Reminderهای زمان‌بندی‌شده هنگام اجرای برنامه �
 
 تنظیمات و مجوزهای اعلان Windows نیز مؤثر هستند.
 
-> **جای تصویر:** Reminder Notification.
+<img width="333" height="112" alt="image" src="https://github.com/user-attachments/assets/110de5d2-9b4b-44d4-80b5-ae838513e242" />
+
 
 ## 10. تنظیمات Reminder
 
@@ -171,7 +172,8 @@ Reminderهای زمان‌بندی‌شده هنگام اجرای برنامه �
 
 با **Test** صدا را امتحان و با **Stop Sound** متوقف کنید.
 
-> **جای تصویر:** Reminder Settings.
+<img width="500" height="386" alt="image" src="https://github.com/user-attachments/assets/7aa949ad-636a-4428-bd4a-54dc45135293" />
+
 
 ## 11. ویجت دسکتاپ
 
@@ -181,7 +183,8 @@ Reminderهای زمان‌بندی‌شده هنگام اجرای برنامه �
 
 Desktop Layer **پشت پنجره‌های عادی** است؛ Always-on-top نیست و Focus را نمی‌گیرد. بازیابی موقعیت چندمانیتوره نیز پشتیبانی می‌شود.
 
-> **جای تصویر:** Desktop Widget.
+<img width="338" height="468" alt="image" src="https://github.com/user-attachments/assets/f925082b-9472-45c3-91e9-a4191a1b15da" />
+
 
 ## 12. شفافیت ویجت
 
@@ -189,7 +192,8 @@ Desktop Layer **پشت پنجره‌های عادی** است؛ Always-on-top ن�
 
 هنگام تعامل با تقویم، ویجت موقتاً 100% می‌شود و بعد به مقدار تنظیم‌شده برمی‌گردد. مقدار ذخیره‌شده تغییر نمی‌کند.
 
-> **جای تصویر:** Opacity Settings.
+<img width="465" height="396" alt="image" src="https://github.com/user-attachments/assets/ce14ed87-acf8-4771-bc3d-bbb5288490d1" />
+
 
 ## 13. System Tray
 
@@ -197,7 +201,7 @@ Desktop Layer **پشت پنجره‌های عادی** است؛ Always-on-top ن�
 
 منوی Tray برای Show، Hide و **Exit** است. فقط Exit برنامه را کاملاً می‌بندد.
 
-> **جای تصویر:** System Tray.
+
 
 ## 14. Settings
 
@@ -205,7 +209,8 @@ Desktop Layer **پشت پنجره‌های عادی** است؛ Always-on-top ن�
 
 بخش‌ها: Appearance، Calendar، Widget، Reminders، Backup، Language و About.
 
-> **جای تصویر:** Settings Overview.
+<img width="475" height="186" alt="image" src="https://github.com/user-attachments/assets/d9930295-040c-4b1f-ba13-a22995d1941f" />
+
 
 ## 15. Appearance
 
@@ -215,7 +220,8 @@ Desktop Layer **پشت پنجره‌های عادی** است؛ Always-on-top ن�
 
 تم روشن، تیره و سیستم پشتیبانی می‌شود. Preview برای مشاهده تغییرات و Reset برای بازگردانی ظاهر استفاده می‌شود.
 
-> **جای تصویر:** Appearance Settings.
+<img width="642" height="845" alt="image" src="https://github.com/user-attachments/assets/1cc8130d-5fb7-4c8a-83c6-4d3dd6d8e5a6" />
+
 
 ## 16. Language
 
@@ -230,7 +236,8 @@ Desktop Layer **پشت پنجره‌های عادی** است؛ Always-on-top ن�
 
 هشت زبان README به معنی پشتیبانی رابط برنامه از هشت زبان نیست.
 
-> **جای تصویر:** Language Settings.
+<img width="387" height="287" alt="image" src="https://github.com/user-attachments/assets/ede484b5-2075-43b8-81ff-2d01faee0105" />
+
 
 ## 17. Backup & Restore
 
@@ -246,7 +253,8 @@ Desktop Layer **پشت پنجره‌های عادی** است؛ Always-on-top ن�
 
 **Open Folder** مسیر فعلی تنظیم‌شده را باز می‌کند. **Backup Now** پشتیبان فوری می‌سازد.
 
-> **جای تصویر:** Backup Settings.
+<img width="579" height="454" alt="image" src="https://github.com/user-attachments/assets/4e30b4db-7bd9-4ec1-9b1b-5173f774b9fd" />
+
 
 ## 18. Restore
 
