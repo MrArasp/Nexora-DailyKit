@@ -102,7 +102,7 @@ NEXORA DAILYKIT은 캘린더, 일일 계획, 작업, Journal, 알림 및 날짜 
 
 Journal은 날짜별 메모입니다. 자동 및 수동 저장을 지원하며 일일 기록, 아이디어, 개인 기록, 회의 메모 등에 사용할 수 있습니다.
 
-<img width="362" height="532" alt="image" src="https://github.com/user-attachments/assets/bf6069c8-2e1f-4545-9990-a9034dff6577" />
+<img width="410" height="552" alt="Screenshot 2026-10-04 101850" src="https://github.com/user-attachments/assets/692c451e-c953-4f0a-bad7-d532b3a86702" />
 
 ## 9. 알림
 
