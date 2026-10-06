@@ -102,7 +102,7 @@ Une tâche peut avoir titre, description facultative, heure facultative et état
 
 Journal sert aux notes liées à une date. Sauvegarde automatique et manuelle. Utilisez-le pour notes quotidiennes, idées, enregistrements personnels et réunions.
 
-<img width="587" height="336" alt="image" src="https://github.com/user-attachments/assets/1a052ff2-34f8-417c-a60b-b03f22af154d" />
+<img width="410" height="552" alt="Screenshot 2026-10-04 101850" src="https://github.com/user-attachments/assets/692c451e-c953-4f0a-bad7-d532b3a86702" />
 
 ## 9. Rappels
 
