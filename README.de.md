@@ -105,7 +105,7 @@ Aufgaben können Titel, optionale Beschreibung, optionale Uhrzeit und Status ent
 
 Journal ist für datumsbezogene Notizen. Automatisches und manuelles Speichern werden unterstützt. Geeignet für Tagesnotizen, Ideen, persönliche Aufzeichnungen und Besprechungsnotizen.
 
-<img width="587" height="336" alt="image" src="https://github.com/user-attachments/assets/ef447c12-30ba-4049-9a34-62c1ced5faea" />
+<img width="410" height="552" alt="Screenshot 2026-10-04 101850" src="https://github.com/user-attachments/assets/692c451e-c953-4f0a-bad7-d532b3a86702" />
 
 ## 9. Erinnerungen
 
