@@ -102,7 +102,7 @@ NEXORA DAILYKIT は、カレンダー、毎日の予定、タスク、Journal、
 
 Journal は日付ごとのメモ用です。自動保存と手動保存を利用できます。日記、アイデア、個人記録、会議メモなどに使用できます。
 
-<img width="587" height="336" alt="image" src="https://github.com/user-attachments/assets/d6d435bf-03db-433d-bcf6-7752716d84f9" />
+<img width="410" height="552" alt="Screenshot 2026-10-04 101850" src="https://github.com/user-attachments/assets/692c451e-c953-4f0a-bad7-d532b3a86702" />
 
 ## 9. リマインダー
 
